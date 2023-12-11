@@ -1,6 +1,7 @@
 # Desafio-Exercicios-JS
 Repositório para exercícios e desafios do Java Script
 
+<<<<<<< HEAD
 Curso de:
 Lógica de programação com JavaScript.
 
@@ -26,3 +27,5 @@ Abaixo algumas funções aprendidas no curso.
 
 Jean Carlos Liandro
 (47) 99157-2489
+=======
+>>>>>>> 11ca78ef63d20013153531561270ca375c54776b
